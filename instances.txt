@@ -1,0 +1,5 @@
+Instances of the class "Dog"
+
+Catahoula Leopard Dog
+
+Staffordshire Terrier 
