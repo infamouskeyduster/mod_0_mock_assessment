@@ -1,0 +1,21 @@
+Notating Classes
+
+Class: Dog
+
+Attributes:
+breed (string)
+sex (boolean) or (string)
+furColor (sting)
+weight (integer)
+height (integer)
+eyeColor (string)
+hungryDog (integer)
+happyDog (boolean)
+positionDog (integer)
+
+Methods:
+walkDog (changes positionDog; decreases weight attribute value)
+feedDog (decreases attribute hungryDog value, increases weight attribute value)
+scratchBelly (changes value of happyDog to 1 or TRUE)
+makeSit (keeps positionDog constant)
+takeOnRun (changes positionDog more quickly that walkDog)
