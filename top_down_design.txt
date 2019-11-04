@@ -1,0 +1,65 @@
+Making a sandwich
+
+1 Enter kitchen (this is presumably where the food is kept)
+2 Identify what type of sandwich the user wants to make
+  2.1 Go to refrigerator
+    2.1.1 Open refrigerator door
+      2.1.1.1 Look inside refrigerator
+      2.1.1.2 Open meat and cheese drawer
+      2.1.1.3 Identify ingredients that could be used to make a sandwich
+        2.1.1.2.1 Bread
+        2.1.1.2.2 Nashville Hot chicken
+        2.1.1.2.3 Pepperjack cheese
+        2.1.1.2.4 Mayo
+        2.1.1.2.5 Mustard
+3 Identify a clean surface to make sandwich on
+  3.1 Kitchen counter has been identified as clean surface
+4 Remove necessary items from refrigerator
+  4.1 with refrigerator door open (1.1.1) pick items identified (1.1.1.3) up with hands
+  4.2 move items to clean surface identified (2)
+  4.3 release items on to surface
+  4.4 close refrigerator door
+5 Identify appropriate dishes and tools to use to construct sandwich
+  5.1 go to kitchen cupboard
+    5.1.1 open kitchen cupboard
+      5.1.1.1 identify appropriate vessel to hold sandwich
+        5.1.1.1.1 a plate has been identified as an appropriate vessel to hold a sandwich
+    5.1.2 pick up plate with hands
+    5.1.3 move plate to cleaned surface identified (3.1)
+    5.1.4 place plate onto clean surface
+  5.2 go to kitchen drawer
+    5.2.1 identify tools/utensils needed to construct sandwich
+      5.2.1.1 a knife has been the only tool identified
+    5.2.2 remove knife from kitchen drawer
+    5.2.3 move knife to cleaned surface (3.1)
+    5.2.4 place knife on plate on cleaned surface
+6 Construct sandwich
+  6.1 remove twist-tie from bread bag
+    6.1.1 remove two slices of bread from bag
+    6.1.2 place two sliced of bread on plate
+  6.2 close bread bag up with twist-tie
+  6.3 open Nashville Hot chicken bag
+    6.3.1 remove .25lbs of Nashville Hot chicken
+      6.3.1.1 place .25lbs of chicken onto one slice of Bread
+    6.3.2 close chicken bag
+  6.4 open both mayo and mustard lids
+    6.4.1 position (one at a time) mayo and mustard containers over bread slice without meat on it
+      6.4.1.1 pick up knife
+      6.4.1.2 with knife - portion out desired may/mustard onto Bread
+    6.4.2 close mayo and mustard containers
+  6.5 Open pepperjack cheese bag
+    6.5.1 remove two pieces of cheese
+    6.5.2 place cheese on either slices of Bread
+    6.5.3 close cheese bag 
+  6.6 Place slice of bread containing mayo and mustard inverted on top of bread containing meat
+  6.7 pick up knife
+    6.7.1 cut constructed sandwich in half
+7 Return all used items to their places of origin
+  7.1 Open refrigerator door
+    7.1.1 open refrigerator cheese and meat drawer
+    7.1.2 return bread, chicken, cheese, mayo and mustard to fridge
+8 Move sadwich on plate to table
+  8.1 sit down
+    8.1.1 pick up sandwhich in hand
+    8.1.2 move sandwich from plate to mouth
+    8.1.3 EAT
