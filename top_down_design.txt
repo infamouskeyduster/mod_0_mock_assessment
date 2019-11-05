@@ -50,7 +50,7 @@ Making a sandwich
   6.5 Open pepperjack cheese bag
     6.5.1 remove two pieces of cheese
     6.5.2 place cheese on either slices of Bread
-    6.5.3 close cheese bag 
+    6.5.3 close cheese bag
   6.6 Place slice of bread containing mayo and mustard inverted on top of bread containing meat
   6.7 pick up knife
     6.7.1 cut constructed sandwich in half

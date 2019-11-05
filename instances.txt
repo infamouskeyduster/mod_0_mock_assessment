@@ -1,5 +1,25 @@
 Instances of the class "Dog"
 
-Catahoula Leopard Dog
+Class: dog
 
-Staffordshire Terrier 
+
+breed: ["Catahoula", "Leopard", "Dog"]
+sexMale: false
+furColor: ["merle", "spots", "black", "brown", "grey"]
+weight: 64
+height: 27
+eyeColor: "blue"
+hungryDog: true
+happyDog: false
+positionDog: 12
+
+
+breed: ["Staffordshire", "Terrier"]
+sexMale: true
+furColor: ["beige", "white"]
+weight: 71
+height: 24
+eyeColor: "brown"
+hungryDog: false
+happyDog: true
+positionDog: 26

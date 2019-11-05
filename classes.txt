@@ -4,18 +4,19 @@ Class: Dog
 
 Attributes:
 breed (string)
-sex (boolean) or (string)
-furColor (sting)
+sexMale (boolean)
+furColor (string)
 weight (integer)
 height (integer)
 eyeColor (string)
-hungryDog (integer)
+hungryDog (boolean)
 happyDog (boolean)
 positionDog (integer)
 
 Methods:
-walkDog (changes positionDog; decreases weight attribute value)
-feedDog (decreases attribute hungryDog value, increases weight attribute value)
+walkDog (changes value of happyDog from false to true)
+feedDog (switches value of hungryDog from true to false)
 scratchBelly (changes value of happyDog to 1 or TRUE)
 makeSit (keeps positionDog constant)
-takeOnRun (changes positionDog more quickly that walkDog)
+takeOnRun (changes value of positionDog)
+changeSex (changes sex from male to female, or female to male)
